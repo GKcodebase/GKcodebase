@@ -16,8 +16,9 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m working as a Software Engineer; worked on desktop,web and embedded application.
-- 🌱 Exploring whats new.
+- 🔭 I’m working as a Software Engineer in Walmart labs ; worked on desktop, web and embedded application.
+- 🌱 Currently working on asynchronous messaging platform for Walmart.
+- 🌱 Foodie ,Cinephile ,Exploring whats new? :D
 
 ---
 
