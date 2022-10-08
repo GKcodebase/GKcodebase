@@ -14,7 +14,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 🔭 I’m working as a Software Engineer in Walmart labs ; worked on desktop, web and embedded application.
 - 🌱 Currently working on asynchronous messaging platform for Walmart.
