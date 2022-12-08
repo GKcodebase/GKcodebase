@@ -16,8 +16,8 @@
 
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🔭 I’m working as a Software Engineer in Walmart labs ; worked on desktop, web and embedded application.
-- 🌱 Currently working on asynchronous messaging platform for Walmart.
+- 🔭 I’m working as a Software Engineer in Walmart labs ; worked on distributed, desktop, web and embedded application.
+- 🌱 Currently working on asynchronous digital messaging platform for Walmart.
 - 🌱 Foodie ,Cinephile ,Exploring whats new? :D
 
 ---
