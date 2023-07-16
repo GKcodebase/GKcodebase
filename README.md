@@ -16,9 +16,9 @@
 
 I am an agile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🔭 I’m working as a Software Engineer in Walmart labs ; worked on asynchronous system, distributed, desktop, web and embedded application.
+- 🔭 I’m a Software Engineer in Walmart Labs; I worked on asynchronous systems, distributed, desktop, web, and embedded applications.
 - 🌱 Currently working on asynchronous digital messaging platform for Walmart, Health and Wellness.
-- 🌱 Foodie ,Cinephile ,Exploring what's new? :D
+- 🌱 Foodie, Cinephile, Traveller, Exploring what's new? :D
 
 ---
 
@@ -58,5 +58,4 @@ I am an agile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### ✍️ Blog Posts : 
 - [What would you do if your encrypted credentials and the key got compromised?](https://dev.to/gokul_gk/what-would-you-do-if-your-encrypted-credentials-and-the-key-got-compromised-27oh)
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
