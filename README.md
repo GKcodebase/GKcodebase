@@ -18,7 +18,7 @@ I am an agile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - 🔭 I’m a Software Engineer in Walmart Labs; I worked on asynchronous systems, distributed, desktop, web, and embedded applications.
 - 🌱 Currently working on asynchronous digital messaging platform for Walmart, Health and Wellness.
-- 🌱 Foodie, Cinephile, Traveller, Exploring what's new? :D
+- 🌱 Foodie, Cinephile, Traveller, Exploring new? :D
 
 ---
 
