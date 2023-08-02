@@ -12,7 +12,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"  /></p>
 
-### :man_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About Me ::
 
 I am an agile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
